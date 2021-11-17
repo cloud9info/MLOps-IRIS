@@ -35,3 +35,5 @@ requests==2.22.0
 requests-oauthlib==1.2.0
 regex==2020.2.20
 git+https://github.com/microsoft/nlp-recipes.git@master#egg=utils_nlp
+fbprophet==0.7.1
+pystan==2.19.1.1
